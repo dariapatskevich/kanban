@@ -1,7 +1,10 @@
-Coursework on kanban with group.Have fan and organize your work easily :)
+Coursework on kanban with group.
+
 We used:
 - parcel
 - basic js
 - users list
-- new memes.
+- new memes
+- etc.
+
 Have fan and organize your work easily :)
