@@ -1,5 +1,5 @@
 Coursework on kanban with group.
-we used:
+We used:
 - parcel
 - basic js
 - users list
